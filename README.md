@@ -11,7 +11,7 @@ More updates to be added soon
 # Technology Stacks
 
 1. React Native
-2. [React Navigation](https://reactnavigation.org/)
+2. [Demo Here](http://g.recordit.co/Sx9HDx1ey5.gif)
 3. [News Api](https://newsapi.org/)
 
 "# React-Native-News-App" 
