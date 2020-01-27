@@ -13,6 +13,6 @@ More updates to be added soon
 1. React Native
 2. [Demo Here](http://g.recordit.co/Sx9HDx1ey5.gif)
 3. [News Api](https://newsapi.org/)
-![](name-of-giphy.gif)
+![](chrome-capture.gif)
 
 "# React-Native-News-App" 
