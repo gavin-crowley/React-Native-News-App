@@ -37,7 +37,7 @@ class HomeStack extends Component {
         <Header
           style={styles.header}
           centerComponent={{
-            text: "Home",
+            text: "News App - Home",
             style: {
               color: "black",
               fontSize: 30,
